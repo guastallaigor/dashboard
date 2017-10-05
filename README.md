@@ -1,4 +1,4 @@
-MetronicWithAngularApp
+Metronic Free + AngularJS Tests
 ======================
 
-AngularJS usage with Metronic Theme
+Some code with Metronic free template and AngularJS with Jonh Papa style
